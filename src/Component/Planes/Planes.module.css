@@ -1,0 +1,11 @@
+.section{
+    height: 90vh;
+    background-color: rgb(145, 255, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card{
+    height: 50%;
+}
