@@ -29,22 +29,22 @@ function Formm() {
       <Carousel>
       <Carousel.Item className={styles.img}>
         <img
-          className="d-block w-100"
-          src="https://images.unsplash.com/photo-1612372992697-81c95501d0d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          className="d-block w-75"
+          src="https://res.cloudinary.com/dkw8e06fo/image/upload/v1681325659/comentario1_rpxzay.png"
           alt="First slide"
         />
       </Carousel.Item>
       <Carousel.Item className={styles.img}>
         <img
-          className="d-block w-100"
-          src="https://images.unsplash.com/photo-1601625463687-25541fb72f62?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          className="d-block w-75"
+          src="https://res.cloudinary.com/dkw8e06fo/image/upload/v1681325659/comentario1_rpxzay.png"
           alt="Second slide"
         />
       </Carousel.Item>
       <Carousel.Item className={styles.img}>
         <img
-          className="d-block w-100"
-          src="https://images.unsplash.com/photo-1578172336697-11f964fe6b7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+          className="d-block w-75"
+          src="https://res.cloudinary.com/dkw8e06fo/image/upload/v1681325659/comentario1_rpxzay.png"
           alt="Third slide"
         />
       </Carousel.Item>
