@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import './Component/styles/styles.scss';
 import UncontrolledExample from './App';
 import reportWebVitals from './reportWebVitals';
 
