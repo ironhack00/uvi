@@ -21,7 +21,7 @@ function Formm() {
         </Form.Text>
       </Form.Group>
 
-      <Button variant="primary" type="submit">
+      <Button variant="primary" type="submit" className={styles.button}>
         Submit
       </Button>
 
@@ -29,22 +29,22 @@ function Formm() {
       <Carousel>
       <Carousel.Item className={styles.img}>
         <img
-          className="d-block w-75"
-          src="https://res.cloudinary.com/dkw8e06fo/image/upload/v1681325659/comentario1_rpxzay.png"
+          className="d-block w-100"
+          src="https://res.cloudinary.com/dkw8e06fo/image/upload/v1681343989/comentario1_akxup3.png"
           alt="First slide"
         />
       </Carousel.Item>
       <Carousel.Item className={styles.img}>
         <img
-          className="d-block w-75"
-          src="https://res.cloudinary.com/dkw8e06fo/image/upload/v1681325659/comentario1_rpxzay.png"
+          className="d-block w-100"
+          src="https://res.cloudinary.com/dkw8e06fo/image/upload/v1681343989/comentario1_akxup3.png"
           alt="Second slide"
         />
       </Carousel.Item>
       <Carousel.Item className={styles.img}>
         <img
-          className="d-block w-75"
-          src="https://res.cloudinary.com/dkw8e06fo/image/upload/v1681325659/comentario1_rpxzay.png"
+          className="d-block w-100"
+          src="https://res.cloudinary.com/dkw8e06fo/image/upload/v1681343989/comentario1_akxup3.png"
           alt="Third slide"
         />
       </Carousel.Item>

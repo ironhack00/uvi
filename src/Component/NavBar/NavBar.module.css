@@ -1,12 +1,13 @@
 .nav{
     height: 10vh;
-    background-color: aqua;
+    background-color: #3d235a;
     display: flex;
     align-items: center;
     position: fixed;
     z-index: 1;
     width: 100vw;
     justify-content: space-between;
+    color: aliceblue;
 }
 
 .logo{

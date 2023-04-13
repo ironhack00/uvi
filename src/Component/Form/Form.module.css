@@ -12,5 +12,9 @@
 .img{
     height: 52vh;
     width: 100%;
-    
+    z-index: -1;
+}
+
+.button{
+    background-color: #470083;
 }
